@@ -5,7 +5,6 @@ C:\Users\Graham\Development\GPTestApp\bin\Debug\net5.0\GPTestApp.deps.json
 C:\Users\Graham\Development\GPTestApp\bin\Debug\net5.0\GPTestApp.runtimeconfig.json
 C:\Users\Graham\Development\GPTestApp\bin\Debug\net5.0\GPTestApp.runtimeconfig.dev.json
 C:\Users\Graham\Development\GPTestApp\bin\Debug\net5.0\GPTestApp.dll
-C:\Users\Graham\Development\GPTestApp\bin\Debug\net5.0\ref\GPTestApp.dll
 C:\Users\Graham\Development\GPTestApp\bin\Debug\net5.0\GPTestApp.pdb
 C:\Users\Graham\Development\GPTestApp\bin\Debug\net5.0\GPTestApp.Views.dll
 C:\Users\Graham\Development\GPTestApp\bin\Debug\net5.0\GPTestApp.Views.pdb
@@ -37,3 +36,4 @@ C:\Users\Graham\Development\GPTestApp\obj\Debug\net5.0\ref\GPTestApp.dll
 C:\Users\Graham\Development\GPTestApp\obj\Debug\net5.0\GPTestApp.pdb
 C:\Users\Graham\Development\GPTestApp\obj\Debug\net5.0\GPTestApp.genruntimeconfig.cache
 C:\Users\Graham\Development\GPTestApp\obj\Debug\net5.0\GPTestApp.csproj.CopyComplete
+C:\Users\Graham\Development\GPTestApp\obj\Debug\net5.0\refint\GPTestApp.dll
