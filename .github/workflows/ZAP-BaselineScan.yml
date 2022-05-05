@@ -1,17 +1,14 @@
+name: Run a Baseline ZAP
 on: [push]
-
-
 
 jobs:
   zap_scan:
     runs-on: ubuntu-latest
-    name: Scan ZAP website
+    name: Scan GH Actions website with ZAP
     steps:
       - name: ZAP Scan
         uses: zaproxy/action-baseline@v0.3.0
         with:
           target: 'https://gp-ghactions.azurewebsites.net/'
           rules_file_name: '.zap/rules.tsv'
-          
-      - name: Exit with success
-        run: exit 0
+          cmd_options: '-a'
