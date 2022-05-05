@@ -10,3 +10,4 @@
 10027	IGNORE	(Information Disclosure - Suspicious Comments)
 10109	IGNORE	(Information Disclosure - Suspicious Comments)
 10015	IGNORE	(Re-examine Cache-control Directives)
+10110 IGNORE  (Dangerous JS Functions)
