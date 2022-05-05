@@ -1,5 +1,7 @@
 on: [push]
 
+
+
 jobs:
   zap_scan:
     runs-on: ubuntu-latest
@@ -9,3 +11,6 @@ jobs:
         uses: zaproxy/action-baseline@v0.3.0
         with:
           target: 'https://gp-ghactions.azurewebsites.net/'
+          
+      - name: Exit with success
+        run: exit 0
